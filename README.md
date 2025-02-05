@@ -1,2 +1,1 @@
-# LeetCodeProb
-LeetCode Patterns
+Repo pentru Leetcode, contine probleme rezolvate
